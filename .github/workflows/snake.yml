@@ -13,13 +13,12 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Generate Snake
+      - name: Generate Blue Contribution Snake
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: monikasricb-del
           outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+            dist/github-contribution-grid-snake.svg?color_snake=%2338BDF8&color_dots=%23E0F2FE%2C%23BAE6FD%2C%237DD3FC%2C%2338BDF8%2C%230369A1
 
       - name: Publish Snake
         uses: crazy-max/ghaction-github-pages@v5
