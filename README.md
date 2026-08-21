@@ -18,11 +18,11 @@
 
 ## `01` — About
 
-I'm an **Electronics & Communication Engineering undergraduate** with interests spanning **software development, artificial intelligence, embedded systems, and real-time operating systems**.
+I'm an **Electronics & Communication Engineering undergraduate** with an interest in **AI and Embedded Systems**, while focusing on **Software Development** and practical problem solving.
 
 I enjoy combining programming with electronics to build practical systems and solve real-world problems.
 
-Currently, I'm strengthening my **C, Java, Embedded C, OOPs and problem-solving skills** while exploring **AI, RTOS and embedded system development**.
+Currently, I'm strengthening my **C, Java, Embedded C, OOPs, RTOS and problem-solving skills** while working on AI and embedded-system projects.
 
 ### Core Skills
 
@@ -59,13 +59,9 @@ Currently, I'm strengthening my **C, Java, Embedded C, OOPs and problem-solving 
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python" height="55"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="55"/>
 
-<img src="https://img.shields.io/badge/-5DADE2?style=for-the-badge&logo=yolo&logoColor=FFFFFF"/>
-
-<img src="https://img.shields.io/badge/-3498DB?style=for-the-badge&logo=roboflow&logoColor=FFFFFF"/>
-
-<img src="https://img.shields.io/badge/-87CEEB?style=for-the-badge&logo=googlecolab&logoColor=071A2B"/>
+<img src="./assets/yolo.png" height="55"/>
 
 </div>
 
@@ -75,9 +71,9 @@ Currently, I'm strengthening my **C, Java, Embedded C, OOPs and problem-solving 
 
 <img src="https://skillicons.dev/icons?i=arduino,raspberrypi" height="55"/>
 
-<img src="https://img.shields.io/badge/-3498DB?style=for-the-badge&logo=c&logoColor=FFFFFF"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="55"/>
 
-<img src="https://img.shields.io/badge/-5DADE2?style=for-the-badge&logo=linux&logoColor=FFFFFF"/>
+<img src="./assets/qnx.png" height="55"/>
 
 </div>
 
@@ -85,23 +81,21 @@ Currently, I'm strengthening my **C, Java, Embedded C, OOPs and problem-solving 
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=vscode,idea,git,github,linux" height="55"/>
+<img src="./assets/cmake.png" height="55"/>
 
-<img src="https://img.shields.io/badge/-5DADE2?style=for-the-badge&logo=arduino&logoColor=FFFFFF"/>
+<img src="./assets/wokwi.png" height="55"/>
 
-<img src="https://img.shields.io/badge/-3498DB?style=for-the-badge&logo=mathworks&logoColor=FFFFFF"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="55"/>
 
-</div>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="55"/>
 
-### 🌐 Areas of Interest
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="55"/>
 
-<div align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="55"/>
 
-<img src="https://img.shields.io/badge/-5DADE2?style=for-the-badge&logo=code&logoColor=FFFFFF"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="55"/>
 
-<img src="https://img.shields.io/badge/-3498DB?style=for-the-badge&logo=googlechrome&logoColor=FFFFFF"/>
-
-<img src="https://img.shields.io/badge/-87CEEB?style=for-the-badge&logoColor=071A2B"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" height="55"/>
 
 </div>
 
@@ -133,7 +127,7 @@ A real-time restroom monitoring system developed using **Raspberry Pi and QNX Ne
 
 The system collects and processes sensor data for restroom occupancy and hygiene monitoring.
 
-Implemented **multi-threaded processing**, **inter-process communication**, and **network-based alerts** for low-latency monitoring.
+Implemented **multi-threaded processing**, **inter-process communication**, and **network-based alerts** for low-latency performance.
 
 **Technologies:** `Raspberry Pi` `QNX Neutrino RTOS` `Multi-threading` `IPC`
 
@@ -177,21 +171,21 @@ Implemented a synchronous sequential circuit with clock division and timing cont
 
 Gained hands-on exposure to **PCB designing, circuit analysis and electronic hardware**.
 
-Worked on schematic drafting, PCB fabrication, fault diagnostics and component-level circuit analysis using reverse engineering techniques.
+Worked on schematic drafting and drawing creation using **AutoCAD**, PCB fabrication, fault diagnostics, and component-level circuit analysis using reverse engineering techniques. :contentReference[oaicite:2]{index=2}
 
 **Focus:** `PCB Design` `Circuit Analysis` `PCB Fabrication` `Fault Diagnostics` `Reverse Engineering`
 
 ---
 
-## `05` — Hackathons & Achievements
+## `05` — Achievements & Participation
 
 <div align="center">
 
 | 🏆 Achievement | Details |
 |---|---|
-| **Reverse Engineering** | Finalist in circuit debugging competition |
-| **TNWISE Hackathon** | Participated in Inclusive Digital Transformation |
-| **Bhasha Bandhu Hackathon** | Participated in hackathon organized by Bhashini |
+| **Reverse Engineering** | Finalist in circuit debugging competition — Yi-YUVA Coimbatore |
+| **TNWISE Hackathon** | Participated in Inclusive Digital Transformation — 2026 |
+| **Bhasha Bandhu Hackathon** | Participated in hackathon organized by Bhashini — 2025 |
 | **Srinivasa Ramanujam Mathematics Competition** | Qualified up to Level 3 — National Level |
 | **MODELATION 2024** | Participated at Dr. N.G.P Institute of Technology |
 
@@ -203,17 +197,17 @@ Worked on schematic drafting, PCB fabrication, fault diagnostics and component-l
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/NPTEL-Cryptography%20%26%20Network%20Security%20%7C%20Elite-5DADE2?style=for-the-badge&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/NPTEL-Computer%20Architecture-5DADE2?style=for-the-badge&logoColor=FFFFFF"/>
 
-<img src="https://img.shields.io/badge/NPTEL-Computer%20Architecture-3498DB?style=for-the-badge&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/NPTEL-Water%20Quality-3498DB?style=for-the-badge&logoColor=FFFFFF"/>
 
-<img src="https://img.shields.io/badge/NPTEL-Water%20Quality-87CEEB?style=for-the-badge&logoColor=071A2B"/>
+<img src="https://img.shields.io/badge/NPTEL-Cryptography%20%26%20Network%20Security%20%7C%20Elite-87CEEB?style=for-the-badge&logoColor=071A2B"/>
 
 </div>
 
 ---
 
-## `07` — Workshops & Participation
+## `07` — Workshops & Activities
 
 <div align="center">
 
