@@ -41,7 +41,7 @@ Currently, I'm strengthening my **C, Java, Embedded C, OOPs and problem-solving 
 
 ### Areas of Interest
 
-`Software Development` · `Web Development` · `Artificial Intelligence` · `Embedded Systems` · `RTOS`
+`Software Development` · `Web Development`
 
 ---
 
@@ -51,7 +51,9 @@ Currently, I'm strengthening my **C, Java, Embedded C, OOPs and problem-solving 
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=c,java,python" height="48"/>
+<img src="https://skillicons.dev/icons?i=c,java" height="55"/>
+
+<img src="https://img.shields.io/badge/Embedded%20C-Basics-3498DB?style=for-the-badge&logo=c&logoColor=FFFFFF"/>
 
 </div>
 
@@ -59,55 +61,65 @@ Currently, I'm strengthening my **C, Java, Embedded C, OOPs and problem-solving 
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/YOLO-3498DB?style=for-the-badge&logoColor=FFFFFF"/>
+<img src="https://skillicons.dev/icons?i=python,tensorflow" height="55"/>
 
-<img src="https://img.shields.io/badge/CNN-5DADE2?style=for-the-badge&logoColor=FFFFFF"/>
+</div>
 
-<img src="https://img.shields.io/badge/Roboflow-3498DB?style=for-the-badge&logoColor=FFFFFF"/>
+<p align="center">
+
+<img src="https://img.shields.io/badge/YOLO-5DADE2?style=for-the-badge&logoColor=FFFFFF"/>
+
+<img src="https://img.shields.io/badge/CNN-3498DB?style=for-the-badge&logoColor=FFFFFF"/>
+
+<img src="https://img.shields.io/badge/Roboflow-87CEEB?style=for-the-badge&logoColor=071A2B"/>
 
 <img src="https://img.shields.io/badge/Google%20Colab-5DADE2?style=for-the-badge&logo=googlecolab&logoColor=FFFFFF"/>
 
-</div>
+</p>
 
-### ⚙️ Embedded & Systems
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=arduino,linux" height="48"/>
-
-<img src="https://img.shields.io/badge/QNX%20Neutrino%20RTOS-3498DB?style=for-the-badge&logoColor=FFFFFF"/>
-
-<img src="https://img.shields.io/badge/Embedded%20C-Basics-5DADE2?style=for-the-badge&logo=c&logoColor=FFFFFF"/>
-
-</div>
-
-### 🛠️ Tools
+### ⚙️ Embedded Systems
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Wokwi-3498DB?style=for-the-badge&logoColor=FFFFFF"/>
-
-<img src="https://img.shields.io/badge/MATLAB-5DADE2?style=for-the-badge&logo=mathworks&logoColor=FFFFFF"/>
-
-<img src="https://img.shields.io/badge/Arduino%20IDE-3498DB?style=for-the-badge&logo=arduino&logoColor=FFFFFF"/>
-
-<img src="https://img.shields.io/badge/VS%20Code-5DADE2?style=for-the-badge&logo=visualstudiocode&logoColor=FFFFFF"/>
-
-<img src="https://img.shields.io/badge/IntelliJ%20IDEA-3498DB?style=for-the-badge&logo=intellijidea&logoColor=FFFFFF"/>
+<img src="https://skillicons.dev/icons?i=arduino,raspberrypi" height="55"/>
 
 </div>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/QNX%20Neutrino-3498DB?style=for-the-badge&logoColor=FFFFFF"/>
+
+<img src="https://img.shields.io/badge/RTOS-5DADE2?style=for-the-badge&logoColor=FFFFFF"/>
+
+</p>
+
+### 🛠️ Development & Tools
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=vscode,idea,git,github,linux" height="55"/>
+
+</div>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Arduino%20IDE-5DADE2?style=for-the-badge&logo=arduino&logoColor=FFFFFF"/>
+
+<img src="https://img.shields.io/badge/MATLAB-3498DB?style=for-the-badge&logo=mathworks&logoColor=FFFFFF"/>
+
+<img src="https://img.shields.io/badge/Wokwi-87CEEB?style=for-the-badge&logoColor=071A2B"/>
+
+<img src="https://img.shields.io/badge/Roboflow-5DADE2?style=for-the-badge&logoColor=FFFFFF"/>
+
+</p>
 
 ### 🎯 Areas of Interest
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/AI%20%26%20Machine%20Learning-5DADE2?style=for-the-badge&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/Software%20Development-5DADE2?style=for-the-badge&logoColor=FFFFFF"/>
 
-<img src="https://img.shields.io/badge/Embedded%20Systems-3498DB?style=for-the-badge&logo=arduino&logoColor=FFFFFF"/>
-
-<img src="https://img.shields.io/badge/RTOS-5DADE2?style=for-the-badge&logoColor=FFFFFF"/>
-
-<img src="https://img.shields.io/badge/Software%20Development-3498DB?style=for-the-badge&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/Web%20Development-3498DB?style=for-the-badge&logo=googlechrome&logoColor=FFFFFF"/>
 
 </div>
 
@@ -213,7 +225,7 @@ Worked on schematic drafting, PCB fabrication, fault diagnostics and component-l
 
 <img src="https://img.shields.io/badge/NPTEL-Computer%20Architecture-3498DB?style=for-the-badge&logoColor=FFFFFF"/>
 
-<img src="https://img.shields.io/badge/NPTEL-Water%20Quality-87CEEB?style=for-the-badge&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/NPTEL-Water%20Quality-87CEEB?style=for-the-badge&logoColor=071A2B"/>
 
 </div>
 
