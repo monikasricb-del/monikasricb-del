@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:071A2B,40:123B5D,70:5DADE2,100:0B1320&height=220&section=header&text=MONIKA%20SRI%20V&fontSize=48&fontColor=F4FAFF&fontAlignY=34&desc=ECE%20UNDERGRADUATE%20%7C%20JAVA%20%7C%20AI%20%7C%20EMBEDDED%20SYSTEMS&descAlignY=56&descSize=17&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:071A2B,40:123B5D,70:5DADE2,100:0B1320&height=220&section=header&text=MONIKA%20SRI%20V&fontSize=48&fontColor=F4FAFF&fontAlignY=34&desc=ECE%20UNDERGRADUATE%20%7C%20JAVA%20%7C%20AI%20%7C%20SOFTWARE%20DEVELOPMENT&descAlignY=56&descSize=17&animation=fadeIn" width="100%"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=19&duration=3000&pause=1000&color=BFEFFF&center=true&vCenter=true&width=850&lines=Java+%7C+C+%7C+Embedded+C;AI+%7C+YOLO+%7C+CNN;Embedded+Systems+%7C+RTOS;Software+Development+%7C+Problem+Solving" alt="Typing SVG"/>
 
@@ -10,7 +10,7 @@
 
 <img src="https://img.shields.io/badge/CGPA-8.6-87CEEB?style=for-the-badge&logo=google-scholar&logoColor=FFFFFF"/>
 
-<img src="https://img.shields.io/badge/FOCUS-AI%20%26%20EMBEDDED%20SYSTEMS-3498DB?style=for-the-badge&logo=arduino&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/FOCUS-SOFTWARE%20DEVELOPMENT%20%7C%20AI%20%7C%20EMBEDDED%20SYSTEMS-3498DB?style=for-the-badge&logo=code&logoColor=FFFFFF"/>
 
 </div>
 
@@ -47,25 +47,19 @@ Currently, I'm strengthening my **C, Java, Embedded C, OOPs and problem-solving 
 
 ## `02` — Tech Stack
 
-### 💻 Programming Languages
+### 💻
 
 <div align="center">
 
 <img src="https://skillicons.dev/icons?i=c,java" height="55"/>
 
-<img src="https://img.shields.io/badge/Embedded%20C-Basics-3498DB?style=for-the-badge&logo=c&logoColor=FFFFFF"/>
-
 </div>
 
-### 🤖 AI & Machine Learning
+### 🤖
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,tensorflow" height="55"/>
-
-</div>
-
-<p align="center">
+<img src="https://skillicons.dev/icons?i=python" height="55"/>
 
 <img src="https://img.shields.io/badge/YOLO-5DADE2?style=for-the-badge&logoColor=FFFFFF"/>
 
@@ -75,33 +69,27 @@ Currently, I'm strengthening my **C, Java, Embedded C, OOPs and problem-solving 
 
 <img src="https://img.shields.io/badge/Google%20Colab-5DADE2?style=for-the-badge&logo=googlecolab&logoColor=FFFFFF"/>
 
-</p>
+</div>
 
-### ⚙️ Embedded Systems
+### ⚙️
 
 <div align="center">
 
 <img src="https://skillicons.dev/icons?i=arduino,raspberrypi" height="55"/>
 
+<img src="https://img.shields.io/badge/Embedded%20C-3498DB?style=for-the-badge&logo=c&logoColor=FFFFFF"/>
+
+<img src="https://img.shields.io/badge/QNX-5DADE2?style=for-the-badge&logoColor=FFFFFF"/>
+
+<img src="https://img.shields.io/badge/RTOS-3498DB?style=for-the-badge&logoColor=FFFFFF"/>
+
 </div>
 
-<p align="center">
-
-<img src="https://img.shields.io/badge/QNX%20Neutrino-3498DB?style=for-the-badge&logoColor=FFFFFF"/>
-
-<img src="https://img.shields.io/badge/RTOS-5DADE2?style=for-the-badge&logoColor=FFFFFF"/>
-
-</p>
-
-### 🛠️ Development & Tools
+### 🛠️
 
 <div align="center">
 
 <img src="https://skillicons.dev/icons?i=vscode,idea,git,github,linux" height="55"/>
-
-</div>
-
-<p align="center">
 
 <img src="https://img.shields.io/badge/Arduino%20IDE-5DADE2?style=for-the-badge&logo=arduino&logoColor=FFFFFF"/>
 
@@ -109,17 +97,17 @@ Currently, I'm strengthening my **C, Java, Embedded C, OOPs and problem-solving 
 
 <img src="https://img.shields.io/badge/Wokwi-87CEEB?style=for-the-badge&logoColor=071A2B"/>
 
-<img src="https://img.shields.io/badge/Roboflow-5DADE2?style=for-the-badge&logoColor=FFFFFF"/>
+</div>
 
-</p>
-
-### 🎯 Areas of Interest
+### 🎯
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Software%20Development-5DADE2?style=for-the-badge&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/Software%20Development-5DADE2?style=for-the-badge&logo=code&logoColor=FFFFFF"/>
 
 <img src="https://img.shields.io/badge/Web%20Development-3498DB?style=for-the-badge&logo=googlechrome&logoColor=FFFFFF"/>
+
+<img src="https://img.shields.io/badge/Artificial%20Intelligence-87CEEB?style=for-the-badge&logoColor=071A2B"/>
 
 </div>
 
