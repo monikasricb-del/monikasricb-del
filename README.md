@@ -20,7 +20,7 @@
 
 I'm an **Electronics and Communication Engineering student** interested in **AI, software development, and embedded systems**.
 
-I'm building my skills in programming, problem solving, and emerging technologies while working on practical projects that combine software and hardware.
+I enjoy working on practical projects that combine programming, hardware, and emerging technologies while continuously developing my problem-solving and technical skills.
 
 ### Core Skills
 
@@ -28,15 +28,11 @@ I'm building my skills in programming, problem solving, and emerging technologie
 * 🧠 **Core** — OOPs, Network Systems, Model Deployment, RTOS
 * 🛠️ **Tools** — Wokwi, MATLAB, Google Colab, Arduino IDE, QNX OS, VS Code, IntelliJ IDEA, Roboflow
 
-### 📚 Currently Learning
+### Currently Learning
 
 `Data Structures & Algorithms` · `Networking` · `SQL`
 
-### 🎯 Focus Areas
-
-`AI` · `Software Development` · `Embedded Systems`
-
-### 💡 Areas of Interest
+### Areas of Interest
 
 `AI` · `Software Development` · `Embedded Systems`
 
@@ -48,7 +44,7 @@ I'm building my skills in programming, problem solving, and emerging technologie
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=c,java" height="48"/>
+<img src="https://skillicons.dev/icons?i=c,java" height="50"/>
 
 </div>
 
@@ -56,21 +52,11 @@ I'm building my skills in programming, problem solving, and emerging technologie
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python" height="48"/>
+<img src="https://skillicons.dev/icons?i=python" height="50"/>
 
-<br/><br/>
+<img src="https://cdn.simpleicons.org/googlecolab/F9AB00" height="50"/>
 
-<img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Roboflow-6706CE?style=for-the-badge&logo=roboflow&logoColor=white"/>
-
-</div>
-
-### 🌐 Software & Development
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=vscode,idea" height="48"/>
+<img src="https://cdn.simpleicons.org/roboflow/6706CE" height="50"/>
 
 </div>
 
@@ -78,15 +64,21 @@ I'm building my skills in programming, problem solving, and emerging technologie
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=arduino,raspberrypi" height="48"/>
+<img src="https://skillicons.dev/icons?i=arduino,raspberrypi" height="50"/>
 
-<br/><br/>
+</div>
 
-<img src="https://img.shields.io/badge/Wokwi-0EA5E9?style=for-the-badge&logoColor=white"/>
+### 🛠️ Tools & Platforms
 
-<img src="https://img.shields.io/badge/QNX%20OS-005BBB?style=for-the-badge&logoColor=white"/>
+<div align="center">
 
-<img src="https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white"/>
+<img src="https://skillicons.dev/icons?i=vscode,idea" height="50"/>
+
+<img src="https://cdn.simpleicons.org/wokwi/0EA5E9" height="50"/>
+
+<img src="https://cdn.simpleicons.org/mathworks/0076A8" height="50"/>
+
+<img src="https://cdn.simpleicons.org/qnx/005BBB" height="50"/>
 
 </div>
 
@@ -100,6 +92,7 @@ I'm building my skills in programming, problem solving, and emerging technologie
 <br/>
 
 ### Line Follower Robot
+
 `2023 – 2024`
 
 Engineered an autonomous path-tracking robot using **IR sensor and Arduino UNO**.
@@ -112,21 +105,20 @@ Developed real-time motor speed and direction control, building proficiency in r
 
 </details>
 
-<br/>
-
 <details>
 <summary><strong>⏱️ Digital Clock using Flip Flops</strong></summary>
 
 <br/>
 
 ### Digital Clock using Flip Flops
+
 `2024 – 2025`
 
 Designed and constructed a digital clock using **ICs, flip-flops, counters and logic gates** with no microcontroller or RTC module.
 
-Designed synchronous sequential circuit using **JK flip-flops, counters and logic gates**.
+Designed a synchronous sequential circuit using **JK flip-flops, counters and logic gates**.
 
-Implemented clock division and timing control without microcontroller/RTC.
+Implemented clock division and timing control without a microcontroller/RTC.
 
 **Technologies**
 
@@ -134,14 +126,13 @@ Implemented clock division and timing control without microcontroller/RTC.
 
 </details>
 
-<br/>
-
 <details>
 <summary><strong>🚻 Clenora — RTOS-Based Restroom Monitoring System</strong></summary>
 
 <br/>
 
 ### Clenora: RTOS-Based Restroom Monitoring System
+
 `2026`
 
 Built a real-time monitoring system using **Raspberry Pi and QNX Neutrino RTOS** to collect and process sensor data for restroom occupancy and hygiene.
@@ -154,14 +145,13 @@ Implemented **multi-threaded processing and inter-process communication** for lo
 
 </details>
 
-<br/>
-
 <details>
 <summary><strong>♻️ AI-Based Medical Waste Segregation System</strong></summary>
 
 <br/>
 
 ### AI-Based Medical Waste Segregation System
+
 `Ongoing`
 
 Designed an automated waste segregation system using **YOLO for real-time object detection** and **CNN for medical waste classification** in healthcare waste management.
@@ -176,21 +166,25 @@ Managed dataset annotation and augmentation using **Roboflow**, and trained mode
 
 ---
 
-## `04` — Internship
+## `04` — Experience
 
-### 🔧 PCB Designing & Circuit Analysis
+### 🔧 PCB Designing & Circuit Analysis Intern
 
 **Sunshiv Electronic Solutions**
 
 `2025 · 14 Days`
 
-| **Area** | **Experience** |
-|:---|:---|
-| 📐 Schematic Design | Schematic drafting and drawing creation using AutoCAD |
-| 🔧 PCB | Hands-on exposure to PCB fabrication |
-| 🔍 Diagnostics | Fault diagnostics |
-| 🔄 Reverse Engineering | Component-level circuit analysis |
-| ⚡ Electronics | Circuit fundamentals and live demonstration of electronic parts |
+<div align="center">
+
+| **Area**               | **Experience**                                                  |
+| :--------------------- | :-------------------------------------------------------------- |
+| 📐 Schematic Design    | Schematic drafting and drawing creation using AutoCAD           |
+| 🔧 PCB                 | Hands-on exposure to PCB fabrication                            |
+| 🔍 Diagnostics         | Fault diagnostics                                               |
+| 🔄 Reverse Engineering | Component-level circuit analysis                                |
+| ⚡ Electronics          | Circuit fundamentals and live demonstration of electronic parts |
+
+</div>
 
 ---
 
@@ -208,20 +202,20 @@ Managed dataset annotation and augmentation using **Roboflow**, and trained mode
 
 ---
 
-## `06` — Workshops, Hackathons & Achievements
+## `06` — Achievements & Participations
 
 <div align="center">
 
-| **Year** | **Experience** | **Recognition / Participation** |
-|:---:|:---|:---|
-| **2026** | TNWISE Hackathon | Participated in Inclusive Digital Transformation |
-| **2025** | Bhasha Bandhu Hackathon | Participated — Bhashini |
-| **2025** | Reverse Engineering | 🏆 **Finalist** — Circuit Debugging |
-| **2025** | National Seminar | AI & Small Language Models |
-| **2024** | Embedded Systems Workshop | PSG Institute of Technology & Applied Research |
-| **2024** | MATLAB Workshop | ARK Info Solutions |
-| **2024** | MODELATION | Participated — Dr. N.G.P Institute of Technology |
-| **2024** | Mathematics Competition | Qualified **Level 3 — National Level** |
+| 🏆 **Year** | **Achievement / Participation** | **Details**                                    |
+| :---------: | :------------------------------ | :--------------------------------------------- |
+|   **2026**  | TNWISE Hackathon                | Inclusive Digital Transformation               |
+|   **2025**  | Bhasha Bandhu Hackathon         | Organized by Bhashini                          |
+|   **2025**  | Reverse Engineering             | 🏆 Finalist in circuit debugging               |
+|   **2025**  | National Seminar                | AI & Small Language Models                     |
+|   **2024**  | Embedded Systems Workshop       | PSG Institute of Technology & Applied Research |
+|   **2024**  | MATLAB Workshop                 | ARK Info Solutions                             |
+|   **2024**  | MODELATION                      | Dr. N.G.P Institute of Technology              |
+|   **2024**  | Mathematics Competition         | Level 3 — National Level                       |
 
 </div>
 
@@ -231,51 +225,83 @@ Managed dataset annotation and augmentation using **Roboflow**, and trained mode
 
 <div align="center">
 
-| **Role** | **Activity** |
-|:---|:---|
-| 🤝 **Active Member** | Yi-Yuva `2025 – Present` |
-| 🎯 **Co-Coordinator** | Circuit Intelathon & Workshop — Kanam'26 |
-| 🙋 **Volunteer** | Project Expo — Kanam'25 |
-| 📚 **Academic Tutor** | Mathematics & Science for school students |
-| 🏐 **District-Level Player** | Volleyball — School Team |
+| **Role**                     | **Activity**                              |
+| :--------------------------- | :---------------------------------------- |
+| 🤝 **Active Member**         | Yi-Yuva `2025 – Present`                  |
+| 🎯 **Co-Coordinator**        | Circuit Intelathon & Workshop — Kanam'26  |
+| 🙋 **Volunteer**             | Project Expo — Kanam'25                   |
+| 📚 **Academic Tutor**        | Mathematics & Science for school students |
+| 🏐 **District-Level Player** | Volleyball — School Team                  |
 
 </div>
 
 ---
 
-## `08` — Education
+## `08` — Currently Learning
 
-### 🎓 B.E Electronics and Communication Engineering
+<div align="center">
 
-**Dr. N.G.P Institute of Technology**
+<img src="https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-0EA5E9?style=for-the-badge&logoColor=FFFFFF"/>
 
-`2023 – Present`
+<img src="https://img.shields.io/badge/Networking-0284C7?style=for-the-badge&logoColor=FFFFFF"/>
 
-**CGPA:** `8.6 / 10` *(till 6th semester)*
+<img src="https://img.shields.io/badge/SQL-0369A1?style=for-the-badge&logoColor=FFFFFF"/>
 
----
-
-### 📘 HSC
-
-**PSGG Kanyagurukulam Higher Secondary School for Girls**
-
-`2022 – 2023`
-
-**Percentage:** `84.5%`
+</div>
 
 ---
 
-### 📗 SSLC
+## `09` — LeetCode Journey
 
-**PSGG Kanyagurukulam Higher Secondary School for Girls**
+<div align="center">
 
-`2020 – 2021`
+<a href="https://leetcode.com/u/uoUzX21kva/">
 
-**Percentage:** `100%`
+<img src="https://leetcard.jacoblin.cool/uoUzX21kva?theme=light&font=Karma&ext=heatmap" alt="LeetCode Statistics"/>
+
+</a>
+
+<br/><br/>
+
+<a href="https://leetcode.com/u/uoUzX21kva/">
+
+<img src="https://img.shields.io/badge/LeetCode-uoUzX21kva-F59E0B?style=for-the-badge&logo=leetcode&logoColor=FFFFFF"/>
+
+</a>
+
+</div>
 
 ---
 
-## `09` — Strengths
+## `10` — GitHub Activity
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=monikasricb-del&show_icons=true&theme=default&hide_border=true&title_color=0369A1&icon_color=0EA5E9&text_color=334155&bg_color=F0F9FF" alt="GitHub Stats"/>
+
+<br/><br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=monikasricb-del&theme=default&hide_border=true&background=F0F9FF&ring=0EA5E9&fire=0284C7&currStreakLabel=0369A1" alt="GitHub Streak"/>
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=monikasricb-del&bg_color=F0F9FF&color=0369A1&line=38BDF8&point=0284C7&area=true&hide_border=true&custom_title=GitHub%20Contribution%20Activity" alt="GitHub Contribution Activity"/>
+
+</div>
+
+---
+
+## `11` — GitHub Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/monikasricb-del/monikasricb-del/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
+
+</div>
+
+---
+
+## `12` — Strengths
 
 <div align="center">
 
@@ -289,7 +315,7 @@ Managed dataset annotation and augmentation using **Roboflow**, and trained mode
 
 ---
 
-## `10` — Connect
+## `13` — Connect
 
 <div align="center">
 
@@ -325,6 +351,6 @@ Managed dataset annotation and augmentation using **Roboflow**, and trained mode
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0369A1,35:38BDF8,70:BAE6FD,100:F0F9FF&height=130&section=footer&animation=fadeIn" width="100%"/>
 
-**Learning. Building. Growing. One step at a time. 💙**
+**Learning. Debugging. Growing. One step at a time. 💙**
 
 </div>
