@@ -57,6 +57,9 @@ I enjoy working on practical projects that combine programming, hardware, and em
 <img src="https://cdn.simpleicons.org/googlecolab/F9AB00" height="50"/>
 
 <img src="https://cdn.simpleicons.org/roboflow/6706CE" height="50"/>
+<img src="https://cdn.simpleicons.org/ultralytics/0008B" height="55"/>
+
+<img src="https://cdn.simpleicons.org/cnn/8EC5E8" height="55"/>
 
 </div>
 
@@ -66,19 +69,15 @@ I enjoy working on practical projects that combine programming, hardware, and em
 
 <img src="https://skillicons.dev/icons?i=arduino,raspberrypi" height="50"/>
 
+<img src="https://commons.wikimedia.org/wiki/Special:Redirect/file/QNX-Logo-QNX-CORAL-RGB.svg" height="55"/>
+
 </div>
 
 ### 🛠️ Tools & Platforms
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=vscode,idea" height="50"/>
-
-<img src="https://cdn.simpleicons.org/wokwi/0EA5E9" height="50"/>
-
-<img src="https://cdn.simpleicons.org/mathworks/0076A8" height="50"/>
-
-<img src="https://cdn.simpleicons.org/qnx/005BBB" height="50"/>
+<img src="https://skillicons.dev/icons?i=vscode,idea,git,github,matlab" height="50"/>
 
 </div>
 
@@ -192,11 +191,11 @@ Managed dataset annotation and augmentation using **Roboflow**, and trained mode
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/NPTEL-Computer%20Architecture%20%7C%2054%25-7DD3FC?style=for-the-badge&logo=academia&logoColor=0F172A"/>
+<img src="https://img.shields.io/badge/NPTEL-Computer%20Architecture%20%7C%202024-7DD3FC?style=for-the-badge&logo=academia&logoColor=0F172A"/>
 
 <img src="https://img.shields.io/badge/NPTEL-Water%20Quality%20%7C%202025-BAE6FD?style=for-the-badge&logo=academia&logoColor=0F172A"/>
 
-<img src="https://img.shields.io/badge/NPTEL-Cryptography%20%26%20Network%20Security%20%7C%2061%25%20Elite-38BDF8?style=for-the-badge&logo=academia&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/NPTEL-Cryptography%20%26%20Network%20Security%20%7C%202026%20Elite-38BDF8?style=for-the-badge&logo=academia&logoColor=FFFFFF"/>
 
 </div>
 
@@ -206,11 +205,11 @@ Managed dataset annotation and augmentation using **Roboflow**, and trained mode
 
 <div align="center">
 
-| 🏆 **Year** | **Achievement / Participation** | **Details**                                    |
+| **Year** | **Achievement / Participation** | **Details**                                    |
 | :---------: | :------------------------------ | :--------------------------------------------- |
 |   **2026**  | TNWISE Hackathon                | Inclusive Digital Transformation               |
 |   **2025**  | Bhasha Bandhu Hackathon         | Organized by Bhashini                          |
-|   **2025**  | Reverse Engineering             | 🏆 Finalist in circuit debugging               |
+|   **2025**  | Reverse Engineering             | Finalist in circuit debugging               |
 |   **2025**  | National Seminar                | AI & Small Language Models                     |
 |   **2024**  | Embedded Systems Workshop       | PSG Institute of Technology & Applied Research |
 |   **2024**  | MATLAB Workshop                 | ARK Info Solutions                             |
@@ -237,27 +236,13 @@ Managed dataset annotation and augmentation using **Roboflow**, and trained mode
 
 ---
 
-## `08` — Currently Learning
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-0EA5E9?style=for-the-badge&logoColor=FFFFFF"/>
-
-<img src="https://img.shields.io/badge/Networking-0284C7?style=for-the-badge&logoColor=FFFFFF"/>
-
-<img src="https://img.shields.io/badge/SQL-0369A1?style=for-the-badge&logoColor=FFFFFF"/>
-
-</div>
-
----
-
 ## `09` — LeetCode Journey
 
 <div align="center">
 
 <a href="https://leetcode.com/u/uoUzX21kva/">
 
-<img src="https://leetcard.jacoblin.cool/uoUzX21kva?theme=light&font=Karma&ext=heatmap" alt="LeetCode Statistics"/>
+<img src="https://leetcard.jacoblin.cool/uoUzX21kva?theme=dark&font=Karma&ext=heatmap" alt="LeetCode Statistics"/>
 
 </a>
 
@@ -265,7 +250,7 @@ Managed dataset annotation and augmentation using **Roboflow**, and trained mode
 
 <a href="https://leetcode.com/u/uoUzX21kva/">
 
-<img src="https://img.shields.io/badge/LeetCode-uoUzX21kva-F59E0B?style=for-the-badge&logo=leetcode&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/LeetCode-uoUzX21kva-F59E0B?style=for-the-badge&logo=leetcode&logoColor=FFA116"/>
 
 </a>
 
@@ -273,21 +258,13 @@ Managed dataset annotation and augmentation using **Roboflow**, and trained mode
 
 ---
 
-## `10` — GitHub Activity
+## `10` — GitHub Analytics
 
-<div align="center">
+<p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=monikasricb-del&show_icons=true&theme=default&hide_border=true&title_color=0369A1&icon_color=0EA5E9&text_color=334155&bg_color=F0F9FF" alt="GitHub Stats"/>
+<img src="https://streak-stats.demolab.com?user=monikasricb-del&hide_border=true&background=F0F9FF&ring=38BDF8&fire=0EA5E9&currStreakLabel=0369A1&sideLabels=0369A1&currStreakNum=0369A1&sideNums=334155&dates=64748B" />
 
-<br/><br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=monikasricb-del&theme=default&hide_border=true&background=F0F9FF&ring=0EA5E9&fire=0284C7&currStreakLabel=0369A1" alt="GitHub Streak"/>
-
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=monikasricb-del&bg_color=F0F9FF&color=0369A1&line=38BDF8&point=0284C7&area=true&hide_border=true&custom_title=GitHub%20Contribution%20Activity" alt="GitHub Contribution Activity"/>
-
-</div>
+</p>
 
 ---
 
@@ -298,8 +275,6 @@ Managed dataset annotation and augmentation using **Roboflow**, and trained mode
 <img src="https://raw.githubusercontent.com/monikasricb-del/monikasricb-del/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
 
 </div>
-
----
 
 ## `12` — Strengths
 
