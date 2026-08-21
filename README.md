@@ -47,7 +47,7 @@ Currently, I'm strengthening my **C, Java, Embedded C, OOPs and problem-solving 
 
 ## `02` — Tech Stack
 
-### 💻
+### 💻 Programming Languages
 
 <div align="center">
 
@@ -55,59 +55,53 @@ Currently, I'm strengthening my **C, Java, Embedded C, OOPs and problem-solving 
 
 </div>
 
-### 🤖
+### 🤖 AI & Machine Learning
 
 <div align="center">
 
 <img src="https://skillicons.dev/icons?i=python" height="55"/>
 
-<img src="https://img.shields.io/badge/YOLO-5DADE2?style=for-the-badge&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/-5DADE2?style=for-the-badge&logo=yolo&logoColor=FFFFFF"/>
 
-<img src="https://img.shields.io/badge/CNN-3498DB?style=for-the-badge&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/-3498DB?style=for-the-badge&logo=roboflow&logoColor=FFFFFF"/>
 
-<img src="https://img.shields.io/badge/Roboflow-87CEEB?style=for-the-badge&logoColor=071A2B"/>
-
-<img src="https://img.shields.io/badge/Google%20Colab-5DADE2?style=for-the-badge&logo=googlecolab&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/-87CEEB?style=for-the-badge&logo=googlecolab&logoColor=071A2B"/>
 
 </div>
 
-### ⚙️
+### ⚙️ Embedded Systems & RTOS
 
 <div align="center">
 
 <img src="https://skillicons.dev/icons?i=arduino,raspberrypi" height="55"/>
 
-<img src="https://img.shields.io/badge/Embedded%20C-3498DB?style=for-the-badge&logo=c&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/-3498DB?style=for-the-badge&logo=c&logoColor=FFFFFF"/>
 
-<img src="https://img.shields.io/badge/QNX-5DADE2?style=for-the-badge&logoColor=FFFFFF"/>
-
-<img src="https://img.shields.io/badge/RTOS-3498DB?style=for-the-badge&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/-5DADE2?style=for-the-badge&logo=linux&logoColor=FFFFFF"/>
 
 </div>
 
-### 🛠️
+### 🛠️ Development & Tools
 
 <div align="center">
 
 <img src="https://skillicons.dev/icons?i=vscode,idea,git,github,linux" height="55"/>
 
-<img src="https://img.shields.io/badge/Arduino%20IDE-5DADE2?style=for-the-badge&logo=arduino&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/-5DADE2?style=for-the-badge&logo=arduino&logoColor=FFFFFF"/>
 
-<img src="https://img.shields.io/badge/MATLAB-3498DB?style=for-the-badge&logo=mathworks&logoColor=FFFFFF"/>
-
-<img src="https://img.shields.io/badge/Wokwi-87CEEB?style=for-the-badge&logoColor=071A2B"/>
+<img src="https://img.shields.io/badge/-3498DB?style=for-the-badge&logo=mathworks&logoColor=FFFFFF"/>
 
 </div>
 
-### 🎯
+### 🌐 Areas of Interest
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Software%20Development-5DADE2?style=for-the-badge&logo=code&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/-5DADE2?style=for-the-badge&logo=code&logoColor=FFFFFF"/>
 
-<img src="https://img.shields.io/badge/Web%20Development-3498DB?style=for-the-badge&logo=googlechrome&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/-3498DB?style=for-the-badge&logo=googlechrome&logoColor=FFFFFF"/>
 
-<img src="https://img.shields.io/badge/Artificial%20Intelligence-87CEEB?style=for-the-badge&logoColor=071A2B"/>
+<img src="https://img.shields.io/badge/-87CEEB?style=for-the-badge&logoColor=071A2B"/>
 
 </div>
 
@@ -193,13 +187,13 @@ Worked on schematic drafting, PCB fabrication, fault diagnostics and component-l
 
 <div align="center">
 
-| 🏆 Achievement                                  | Details                                           |
-| ----------------------------------------------- | ------------------------------------------------- |
-| **Reverse Engineering**                         | Finalist in circuit debugging competition         |
-| **TNWISE Hackathon**                            | Participated in Inclusive Digital Transformation  |
-| **Bhasha Bandhu Hackathon**                     | Participated in hackathon organized by Bhashini   |
-| **Srinivasa Ramanujam Mathematics Competition** | Qualified up to Level 3 — National Level          |
-| **MODELATION 2024**                             | Participated at Dr. N.G.P Institute of Technology |
+| 🏆 Achievement | Details |
+|---|---|
+| **Reverse Engineering** | Finalist in circuit debugging competition |
+| **TNWISE Hackathon** | Participated in Inclusive Digital Transformation |
+| **Bhasha Bandhu Hackathon** | Participated in hackathon organized by Bhashini |
+| **Srinivasa Ramanujam Mathematics Competition** | Qualified up to Level 3 — National Level |
+| **MODELATION 2024** | Participated at Dr. N.G.P Institute of Technology |
 
 </div>
 
@@ -223,13 +217,13 @@ Worked on schematic drafting, PCB fabrication, fault diagnostics and component-l
 
 <div align="center">
 
-| 📌 Activity                            | Details                                                 |
-| -------------------------------------- | ------------------------------------------------------- |
-| **Embedded Systems Workshop**          | PSG Institute of Technology and Applied Research — 2024 |
-| **MATLAB Workshop**                    | ARK Info Solutions — 2024                               |
-| **AI & Small Language Models Seminar** | National Seminar — 2025                                 |
-| **Project Expo**                       | Volunteer — Kanam'25                                    |
-| **Circuit Intelathon & Workshop**      | Co-coordinator — Kanam'26                               |
+| 📌 Activity | Details |
+|---|---|
+| **Embedded Systems Workshop** | PSG Institute of Technology and Applied Research — 2024 |
+| **MATLAB Workshop** | ARK Info Solutions — 2024 |
+| **AI & Small Language Models Seminar** | National Seminar — 2025 |
+| **Project Expo** | Volunteer — Kanam'25 |
+| **Circuit Intelathon & Workshop** | Co-coordinator — Kanam'26 |
 
 </div>
 
@@ -288,6 +282,12 @@ Worked on schematic drafting, PCB fabrication, fault diagnostics and component-l
 <a href="https://github.com/monikasricb-del">
 
 <img src="https://img.shields.io/badge/GITHUB-monikasricb--del-123B5D?style=for-the-badge&logo=github&logoColor=BFEFFF"/>
+
+</a>
+
+<a href="https://leetcode.com/u/uoUzX21kva/">
+
+<img src="https://img.shields.io/badge/LEETCODE-Monika%20Sri%20V-87CEEB?style=for-the-badge&logo=leetcode&logoColor=071A2B"/>
 
 </a>
 
