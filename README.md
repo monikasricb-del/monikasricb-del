@@ -1,367 +1,304 @@
-<p align="center">
-  <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/monikasricb-del/monikasricb-del/main/art/header-dark.png">
+<div align="center">
 
-    <img
-      src="https://raw.githubusercontent.com/monikasricb-del/monikasricb-del/main/art/header-light.png"
-      alt="Monika Sri V Banner"
-      width="100%">
-  </picture>
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:071A2B,40:123B5D,70:5DADE2,100:0B1320&height=220&section=header&text=MONIKA%20SRI%20V&fontSize=48&fontColor=F4FAFF&fontAlignY=34&desc=ECE%20UNDERGRADUATE%20%7C%20JAVA%20%7C%20AI%20%7C%20EMBEDDED%20SYSTEMS&descAlignY=56&descSize=17&animation=fadeIn" width="100%"/>
 
-<h1 align="center">
-  Hey there, I'm <span style="color:#5DADE2;">Monika Sri V</span> 👋
-</h1>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=19&duration=3000&pause=1000&color=BFEFFF&center=true&vCenter=true&width=850&lines=Java+%7C+C+%7C+Embedded+C;AI+%7C+YOLO+%7C+CNN;Embedded+Systems+%7C+RTOS;Software+Development+%7C+Problem+Solving" alt="Typing SVG"/>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=26&duration=3500&pause=1000&color=5DADE2&center=true&vCenter=true&width=700&lines=ECE+Engineering+Student;AI+%26+Software+Developer;Embedded+Systems+Enthusiast;RTOS+Learner;Problem+Solver" />
-</p>
+<br/>
 
-<p align="center">
-  <img src="https://img.shields.io/github/followers/monikasricb-del?style=for-the-badge&logo=github&label=Followers&color=5DADE2" />
+<img src="https://img.shields.io/badge/ECE%20UNDERGRADUATE-2023--PRESENT-5DADE2?style=for-the-badge&logo=academia&logoColor=FFFFFF"/>
 
-  <img src="https://img.shields.io/github/stars/monikasricb-del?style=for-the-badge&logo=github&label=Stars&color=5DADE2" />
+<img src="https://img.shields.io/badge/CGPA-8.6-87CEEB?style=for-the-badge&logo=google-scholar&logoColor=FFFFFF"/>
 
-  <img src="https://komarev.com/ghpvc/?username=monikasricb-del&style=for-the-badge&color=5DADE2"/>
-</p>
+<img src="https://img.shields.io/badge/FOCUS-AI%20%26%20EMBEDDED%20SYSTEMS-3498DB?style=for-the-badge&logo=arduino&logoColor=FFFFFF"/>
 
+</div>
 
-<h2 align="center">👩‍💻 About Me</h2>
+---
 
-<table align="center">
-<tr>
+## `01` — About
 
-<td width="65%" valign="top">
+I'm an **Electronics & Communication Engineering undergraduate** with interests spanning **software development, artificial intelligence, embedded systems, and real-time operating systems**.
 
-- 🎓 Electronics and Communication Engineering student
-- 💻 Interested in Software Development and Web Development
-- 🤖 Building AI-based projects using YOLO and CNN
-- ⚙️ Exploring Embedded Systems and RTOS
-- 🧵 Learning multi-threaded programming and IPC with QNX
-- 🔧 Hands-on experience with Arduino, sensors and circuit systems
-- 🧠 Interested in problem solving and emerging technologies
-- 🚀 Always learning, experimenting and building new projects
+I enjoy combining programming with electronics to build practical systems and solve real-world problems.
 
-</td>
+Currently, I'm strengthening my **C, Java, Embedded C, OOPs and problem-solving skills** while exploring **AI, RTOS and embedded system development**.
 
-<td width="35%" align="center" valign="middle">
+### Core Skills
 
-<img
-  src="https://github.com/user-attachments/assets/03d1122a-3019-4b8f-ba2e-c9d402b1437e"
-  width="160"
-  alt="Developer illustration"
-/>
+* ☕ **Java** — Programming & OOPs
+* 💻 **C** — Programming fundamentals
+* ⚙️ **Embedded C** — Basics
+* 🤖 **AI** — YOLO & CNN
+* 🧵 **RTOS** — QNX Neutrino
+* 🔌 **Embedded Systems** — Arduino & sensor interfacing
+* 🌐 **Network Systems** — Fundamentals
+* 🧠 **Model Deployment** — Fundamentals
 
-</td>
+### Tools & Platforms
 
-</tr>
-</table>
+`Wokwi` · `MATLAB` · `Google Colab` · `Arduino IDE` · `QNX OS` · `VS Code` · `IntelliJ IDEA` · `Roboflow`
 
+### Areas of Interest
 
-<h2 align="center">💻 Tech Stack</h2>
+`Software Development` · `Web Development` · `Artificial Intelligence` · `Embedded Systems` · `RTOS`
 
+---
 
-<h3 align="center">Programming Languages</h3>
+## `02` — Tech Stack
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=c,java,python&perline=10"/>
-</p>
+### 💻 Programming Languages
 
+<div align="center">
 
-<h3 align="center">AI & Development</h3>
+<img src="https://skillicons.dev/icons?i=c,java,python" height="48"/>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,matlab&perline=10"/>
-</p>
+</div>
 
-<p align="center">
+### 🤖 AI & Machine Learning
 
-  <img
-    src="https://img.shields.io/badge/YOLO-5DADE2?style=for-the-badge&logoColor=white"/>
+<div align="center">
 
-  <img
-    src="https://img.shields.io/badge/CNN-3498DB?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/YOLO-3498DB?style=for-the-badge&logoColor=FFFFFF"/>
 
-  <img
-    src="https://img.shields.io/badge/Roboflow-5DADE2?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/CNN-5DADE2?style=for-the-badge&logoColor=FFFFFF"/>
 
-  <img
-    src="https://img.shields.io/badge/Google%20Colab-3498DB?style=for-the-badge&logo=googlecolab&logoColor=white"/>
+<img src="https://img.shields.io/badge/Roboflow-3498DB?style=for-the-badge&logoColor=FFFFFF"/>
 
-</p>
+<img src="https://img.shields.io/badge/Google%20Colab-5DADE2?style=for-the-badge&logo=googlecolab&logoColor=FFFFFF"/>
 
+</div>
 
-<h3 align="center">Embedded & Systems</h3>
+### ⚙️ Embedded & Systems
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=arduino,linux&perline=10"/>
-</p>
+<div align="center">
 
-<p align="center">
+<img src="https://skillicons.dev/icons?i=arduino,linux" height="48"/>
 
-  <img
-    src="https://img.shields.io/badge/RTOS-QNX%20Neutrino-5DADE2?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/QNX%20Neutrino%20RTOS-3498DB?style=for-the-badge&logoColor=FFFFFF"/>
 
-  <img
-    src="https://img.shields.io/badge/Embedded%20C-Basics-3498DB?style=for-the-badge&logo=c&logoColor=white"/>
+<img src="https://img.shields.io/badge/Embedded%20C-Basics-5DADE2?style=for-the-badge&logo=c&logoColor=FFFFFF"/>
 
-  <img
-    src="https://img.shields.io/badge/OOPs-Java-5DADE2?style=for-the-badge&logo=openjdk&logoColor=white"/>
+</div>
 
-</p>
+### 🛠️ Tools
 
+<div align="center">
 
-<h3 align="center">Tools</h3>
+<img src="https://img.shields.io/badge/Wokwi-3498DB?style=for-the-badge&logoColor=FFFFFF"/>
 
-<p align="center">
+<img src="https://img.shields.io/badge/MATLAB-5DADE2?style=for-the-badge&logo=mathworks&logoColor=FFFFFF"/>
 
-  <img
-    src="https://img.shields.io/badge/Wokwi-5DADE2?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Arduino%20IDE-3498DB?style=for-the-badge&logo=arduino&logoColor=FFFFFF"/>
 
-  <img
-    src="https://img.shields.io/badge/MATLAB-3498DB?style=for-the-badge&logo=mathworks&logoColor=white"/>
+<img src="https://img.shields.io/badge/VS%20Code-5DADE2?style=for-the-badge&logo=visualstudiocode&logoColor=FFFFFF"/>
 
-  <img
-    src="https://img.shields.io/badge/Arduino%20IDE-5DADE2?style=for-the-badge&logo=arduino&logoColor=white"/>
+<img src="https://img.shields.io/badge/IntelliJ%20IDEA-3498DB?style=for-the-badge&logo=intellijidea&logoColor=FFFFFF"/>
 
-  <img
-    src="https://img.shields.io/badge/VS%20Code-3498DB?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+</div>
 
-  <img
-    src="https://img.shields.io/badge/IntelliJ%20IDEA-5DADE2?style=for-the-badge&logo=intellijidea&logoColor=white"/>
+### 🎯 Areas of Interest
 
-</p>
+<div align="center">
 
+<img src="https://img.shields.io/badge/AI%20%26%20Machine%20Learning-5DADE2?style=for-the-badge&logoColor=FFFFFF"/>
 
-<h2 align="center">🚀 Featured Projects</h2>
+<img src="https://img.shields.io/badge/Embedded%20Systems-3498DB?style=for-the-badge&logo=arduino&logoColor=FFFFFF"/>
 
-<table align="center">
+<img src="https://img.shields.io/badge/RTOS-5DADE2?style=for-the-badge&logoColor=FFFFFF"/>
 
-<tr>
+<img src="https://img.shields.io/badge/Software%20Development-3498DB?style=for-the-badge&logoColor=FFFFFF"/>
 
-<td width="50%" valign="top">
+</div>
 
-<h3 align="center">🤖 AI-Based Medical Waste Segregation</h3>
+---
 
-<p align="center">
-An ongoing AI-based healthcare waste management project using
-<b>YOLO</b> for real-time object detection and
-<b>CNN</b> for medical waste classification.
-</p>
+## `03` — Featured Projects
 
-<p align="center">
-Dataset annotation and augmentation using Roboflow,
-with model training using Google Colab.
-</p>
+<details>
+<summary><strong>🤖 AI-Based Medical Waste Segregation System</strong></summary>
 
-</td>
+<br/>
 
+An ongoing **AI-based medical waste segregation system** designed for healthcare waste management.
 
-<td width="50%" valign="top">
+The system uses **YOLO for real-time object detection** and **CNN for medical waste classification**.
 
-<h3 align="center">🧵 Clenora</h3>
+Worked on dataset annotation and augmentation using **Roboflow** and trained models using **Google Colab**.
 
-<p align="center">
-RTOS-based restroom monitoring system using
-<b>Raspberry Pi</b> and <b>QNX Neutrino RTOS</b>.
-</p>
+**Technologies:** `YOLO` `CNN` `Python` `Roboflow` `Google Colab`
 
-<p align="center">
-Uses multi-threaded processing, inter-process communication
-and network-based alerts for real-time monitoring.
-</p>
+</details>
 
-</td>
+<details>
+<summary><strong>🧵 Clenora — RTOS-Based Restroom Monitoring System</strong></summary>
 
-</tr>
+<br/>
 
+A real-time restroom monitoring system developed using **Raspberry Pi and QNX Neutrino RTOS**.
 
-<tr>
+The system collects and processes sensor data for restroom occupancy and hygiene monitoring.
 
-<td width="50%" valign="top">
+Implemented **multi-threaded processing**, **inter-process communication**, and **network-based alerts** for low-latency monitoring.
 
-<h3 align="center">🤖 Line Follower Robot</h3>
+**Technologies:** `Raspberry Pi` `QNX Neutrino RTOS` `Multi-threading` `IPC`
 
-<p align="center">
-Autonomous path-tracking robot built using
-<b>Arduino UNO</b> and IR sensors.
-</p>
+</details>
 
-<p align="center">
-Implemented real-time motor speed and direction control
-with sensor interfacing.
-</p>
+<details>
+<summary><strong>🤖 Line Follower Robot</strong></summary>
 
-</td>
+<br/>
 
+An autonomous path-tracking robot developed using **Arduino UNO and IR sensors**.
 
-<td width="50%" valign="top">
+Implemented real-time motor speed and direction control while gaining practical experience in **robotics, sensor interfacing, and hardware-software integration**.
 
-<h3 align="center">⏱️ Digital Clock Using Flip-Flops</h3>
+**Technologies:** `Arduino UNO` `IR Sensor` `Embedded Systems` `Robotics`
 
-<p align="center">
-Digital clock designed using <b>JK flip-flops, counters,
-logic gates and ICs</b>.
-</p>
+</details>
 
-<p align="center">
-Implemented clock division and timing control without
-a microcontroller or RTC module.
-</p>
+<details>
+<summary><strong>⏱️ Digital Clock Using Flip-Flops</strong></summary>
 
-</td>
+<br/>
 
-</tr>
+A digital clock designed and constructed using **ICs, JK flip-flops, counters and logic gates**.
 
-</table>
+Implemented a synchronous sequential circuit with clock division and timing control **without using a microcontroller or RTC module**.
 
+**Technologies:** `JK Flip-Flops` `Counters` `Logic Gates` `Digital Electronics`
 
-<h2 align="center">📜 Certifications</h2>
+</details>
 
-<p align="center">
+---
 
-🏆 <b>Cryptography and Network Security</b> — NPTEL Elite, 61%
+## `04` — Internship
 
-<br><br>
+### PCB Designing & Circuit Analysis Intern
 
-🏆 <b>Computer Architecture</b> — NPTEL, 54%
+**Sunshiv Electronic Solutions**
 
-<br><br>
+`2025 — 14 Days`
 
-🏆 <b>Water Quality – An Approach to People’s Water Data</b>
-— NPTEL Hybrid Course
+Gained hands-on exposure to **PCB designing, circuit analysis and electronic hardware**.
 
-</p>
+Worked on schematic drafting, PCB fabrication, fault diagnostics and component-level circuit analysis using reverse engineering techniques.
 
+**Focus:** `PCB Design` `Circuit Analysis` `PCB Fabrication` `Fault Diagnostics` `Reverse Engineering`
 
-<h2 align="center">🏆 Achievements & Activities</h2>
+---
 
-<p align="center">
+## `05` — Hackathons & Achievements
 
-🥇 Finalist in <b>Reverse Engineering</b> circuit debugging competition
+<div align="center">
 
-<br><br>
+| 🏆 Achievement                                  | Details                                           |
+| ----------------------------------------------- | ------------------------------------------------- |
+| **Reverse Engineering**                         | Finalist in circuit debugging competition         |
+| **TNWISE Hackathon**                            | Participated in Inclusive Digital Transformation  |
+| **Bhasha Bandhu Hackathon**                     | Participated in hackathon organized by Bhashini   |
+| **Srinivasa Ramanujam Mathematics Competition** | Qualified up to Level 3 — National Level          |
+| **MODELATION 2024**                             | Participated at Dr. N.G.P Institute of Technology |
 
-💡 Participated in <b>TNWISE Hackathon</b> on Inclusive Digital Transformation
+</div>
 
-<br><br>
+---
 
-🏅 Qualified up to <b>Level 3 – National Level</b> in
-Srinivasa Ramanujam Mathematics Competition
+## `06` — Certifications
 
-<br><br>
+<div align="center">
 
-💻 Participated in <b>Bhasha Bandhu Hackathon</b> organized by Bhashini
+<img src="https://img.shields.io/badge/NPTEL-Cryptography%20%26%20Network%20Security%20%7C%20Elite-5DADE2?style=for-the-badge&logoColor=FFFFFF"/>
 
-<br><br>
+<img src="https://img.shields.io/badge/NPTEL-Computer%20Architecture-3498DB?style=for-the-badge&logoColor=FFFFFF"/>
 
-⚡ Active Member of <b>Yi-Yuva</b>
+<img src="https://img.shields.io/badge/NPTEL-Water%20Quality-87CEEB?style=for-the-badge&logoColor=FFFFFF"/>
 
-<br><br>
+</div>
 
-🔧 Co-coordinator for <b>Circuit Intelathon and Workshop</b>
+---
 
-</p>
+## `07` — Workshops & Participation
 
+<div align="center">
 
-<h2 align="center">📈 GitHub Analytics</h2>
+| 📌 Activity                            | Details                                                 |
+| -------------------------------------- | ------------------------------------------------------- |
+| **Embedded Systems Workshop**          | PSG Institute of Technology and Applied Research — 2024 |
+| **MATLAB Workshop**                    | ARK Info Solutions — 2024                               |
+| **AI & Small Language Models Seminar** | National Seminar — 2025                                 |
+| **Project Expo**                       | Volunteer — Kanam'25                                    |
+| **Circuit Intelathon & Workshop**      | Co-coordinator — Kanam'26                               |
 
-<p align="center">
+</div>
 
-<img
-  src="https://github-readme-stats.vercel.app/api?username=monikasricb-del&show_icons=true&hide_border=true&bg_color=0D1117&title_color=5DADE2&icon_color=87CEEB&text_color=FFFFFF"
-/>
+---
 
-</p>
+## `08` — GitHub Activity
 
+<div align="center">
 
-<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=monikasricb-del&bg_color=071A2B&color=BFEFFF&line=5DADE2&point=FFFFFF&area=true&hide_border=true&custom_title=GitHub%20Contribution%20Activity"/>
 
-<img
-  src="https://streak-stats.demolab.com?user=monikasricb-del&hide_border=true&background=0D1117&ring=5DADE2&fire=87CEEB&currStreakLabel=BFEFFF&sideLabels=BFEFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=AAAAAA"
-/>
+</div>
 
-</p>
+---
 
+## `09` — GitHub Contribution Snake
 
-<p align="center">
+<div align="center">
 
-<img
-  src="https://github-readme-activity-graph.vercel.app/graph?username=monikasricb-del&bg_color=0D1117&color=BFEFFF&line=5DADE2&point=87CEEB&area=true&area_color=5DADE2&hide_border=true"
-/>
+<img src="https://raw.githubusercontent.com/monikasricb-del/monikasricb-del/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
 
-</p>
+</div>
 
+---
 
-<h2 align="center">🐍 Contribution Graph</h2>
+## `10` — GitHub Stats
 
-<p align="center">
+<div align="center">
 
-<img
-  src="https://github.com/monikasricb-del/monikasricb-del/blob/output/github-contribution-grid-snake.svg"
-  alt="Snake animation"
-/>
+<img src="https://github-readme-stats.vercel.app/api?username=monikasricb-del&show_icons=true&hide_border=true&bg_color=071A2B&title_color=5DADE2&icon_color=87CEEB&text_color=FFFFFF&custom_title=Monika%20Sri%20V's%20GitHub%20Stats"/>
 
-</p>
+<br/><br/>
 
+<img src="https://streak-stats.demolab.com?user=monikasricb-del&hide_border=true&background=071A2B&ring=5DADE2&fire=87CEEB&currStreakLabel=BFEFFF&sideLabels=BFEFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=AAAAAA"/>
 
-<!--
+</div>
 
-To enable the snake animation:
+---
 
-1. Create a GitHub Action in this repository.
-2. Use Platane/snk to generate the SVG.
-3. Commit the generated file into:
+## `11` — Connect
 
-   output/github-contribution-grid-snake.svg
-
--->
-
-
-<h2 align="center">🌐 Let's Connect</h2>
-
-<p align="center">
-
-<a href="https://www.linkedin.com/in/monika-sri-715160288/">
-
-<img
-  src="https://img.shields.io/badge/LinkedIn-5DADE2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-
-</a>
-
+<div align="center">
 
 <a href="mailto:monikasri.cb@gmail.com">
 
-<img
-  src="https://img.shields.io/badge/Email-3498DB?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/GMAIL-Contact%20Me-3498DB?style=for-the-badge&logo=gmail&logoColor=FFFFFF"/>
 
 </a>
 
+<a href="https://www.linkedin.com/in/monika-sri-715160288/">
+
+<img src="https://img.shields.io/badge/LINKEDIN-Monika%20Sri%20V-5DADE2?style=for-the-badge&logo=linkedin&logoColor=FFFFFF"/>
+
+</a>
 
 <a href="https://github.com/monikasricb-del">
 
-<img
-  src="https://img.shields.io/badge/GitHub-5DADE2?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GITHUB-monikasricb--del-123B5D?style=for-the-badge&logo=github&logoColor=BFEFFF"/>
 
 </a>
 
-</p>
+</div>
 
+---
 
-<p align="center">
+<div align="center">
 
-<i>Building. Learning. Debugging. Repeating. 🚀</i>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1320,35:123B5D,70:5DADE2,100:071A2B&height=130&section=footer&animation=fadeIn" width="100%"/>
 
-</p>
+**Learning. Building. Debugging. Growing. 💙**
 
-
-<p align="center">
-
-<img
-  width="100%"
-  src="https://capsule-render.vercel.app/api?type=waving&color=0:AED6F1,50:5DADE2,100:3498DB&height=140&section=footer"
-/>
-
-</p>
+</div>
