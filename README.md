@@ -27,21 +27,13 @@ Currently, I'm strengthening my **C, Java, Embedded C, OOPs, RTOS and problem-so
 ### Core Skills
 
 * ☕ **Java** — Programming & OOPs
-* 💻 **C** — Programming fundamentals
-* ⚙️ **Embedded C** — Basics
+* 💻 **C** — Programming Fundamentals
+* ⚙️ **Embedded C** — Embedded Programming
 * 🤖 **AI** — YOLO & CNN
 * 🧵 **RTOS** — QNX Neutrino
-* 🔌 **Embedded Systems** — Arduino & sensor interfacing
-* 🌐 **Network Systems** — Fundamentals
-* 🧠 **Model Deployment** — Fundamentals
-
-### Tools & Platforms
-
-`Wokwi` · `MATLAB` · `Google Colab` · `Arduino IDE` · `QNX OS` · `VS Code` · `IntelliJ IDEA` · `Roboflow`
-
-### Areas of Interest
-
-`Software Development` · `Web Development`
+* 🔌 **Embedded Systems** — Arduino & Sensor Interfacing
+* 🌐 **Networks** — Fundamentals
+* 🗄️ **SQL** — Database Fundamentals
 
 ---
 
@@ -51,7 +43,11 @@ Currently, I'm strengthening my **C, Java, Embedded C, OOPs, RTOS and problem-so
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=c,java" height="55"/>
+<img src="https://cdn.simpleicons.org/c/5DADE2" width="55" height="55"/>
+
+<img src="https://cdn.simpleicons.org/openjdk/ED8B00" width="55" height="55"/>
+
+<img src="https://cdn.simpleicons.org/python/3776AB" width="55" height="55"/>
 
 </div>
 
@@ -59,9 +55,9 @@ Currently, I'm strengthening my **C, Java, Embedded C, OOPs, RTOS and problem-so
 
 <div align="center">
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="55"/>
+<img src="https://cdn.simpleicons.org/ultralytics/111111" width="55" height="55"/>
 
-<img src="./assets/yolo.png" height="55"/>
+<img src="https://cdn.simpleicons.org/cnn/FF6F00" width="55" height="55"/>
 
 </div>
 
@@ -69,11 +65,13 @@ Currently, I'm strengthening my **C, Java, Embedded C, OOPs, RTOS and problem-so
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=arduino,raspberrypi" height="55"/>
+<img src="https://cdn.simpleicons.org/arduino/00878F" width="55" height="55"/>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="55"/>
+<img src="https://cdn.simpleicons.org/raspberrypi/A22846" width="55" height="55"/>
 
-<img src="./assets/qnx.png" height="55"/>
+<img src="https://cdn.simpleicons.org/c/5DADE2" width="55" height="55"/>
+
+<img src="https://commons.wikimedia.org/wiki/Special:Redirect/file/QNX-Logo-QNX-CORAL-RGB.svg" width="75" height="55"/>
 
 </div>
 
@@ -81,40 +79,60 @@ Currently, I'm strengthening my **C, Java, Embedded C, OOPs, RTOS and problem-so
 
 <div align="center">
 
-<img src="./assets/cmake.png" height="55"/>
+<img src="https://cdn.simpleicons.org/cmake/064F8C" width="55" height="55"/>
 
-<img src="./assets/wokwi.png" height="55"/>
+<img src="https://wokwi.com/favicon.svg" width="55" height="55"/>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="55"/>
+<img src="https://cdn.simpleicons.org/visualstudiocode/007ACC" width="55" height="55"/>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="55"/>
+<img src="https://cdn.simpleicons.org/intellijidea/000000" width="55" height="55"/>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="55"/>
+<img src="https://cdn.simpleicons.org/git/F05032" width="55" height="55"/>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="55"/>
+<img src="https://cdn.simpleicons.org/github/181717" width="55" height="55"/>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="55"/>
+<img src="https://cdn.simpleicons.org/arduino/00878F" width="55" height="55"/>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" height="55"/>
+<img src="https://cdn.simpleicons.org/matlab/0076A8" width="55" height="55"/>
 
 </div>
 
 ---
 
-## `03` — Featured Projects
+## `03` — Currently Learning
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/DSA-5DADE2?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/NETWORKS-3498DB?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/SQL-87CEEB?style=for-the-badge&logoColor=071A2B"/>
+
+</div>
+
+---
+
+## `04` — Areas of Interest
+
+I'm interested in **Software Development, Web Development, Artificial Intelligence, and Embedded Systems**.
+
+---
+
+## `05` — Featured Projects
 
 <details>
 <summary><strong>🤖 AI-Based Medical Waste Segregation System</strong></summary>
 
 <br/>
 
-An ongoing **AI-based medical waste segregation system** designed for healthcare waste management.
+An **AI-based medical waste segregation system** designed to automatically identify and classify different categories of medical waste.
 
-The system uses **YOLO for real-time object detection** and **CNN for medical waste classification**.
+The system combines **YOLO-based object detection** with **CNN-based classification** for intelligent waste identification.
 
-Worked on dataset annotation and augmentation using **Roboflow** and trained models using **Google Colab**.
+The project focuses on automated segregation according to appropriate medical-waste processing methods.
 
-**Technologies:** `YOLO` `CNN` `Python` `Roboflow` `Google Colab`
+**Technologies:** `Python` `YOLO` `CNN` `Roboflow` `Google Colab`
 
 </details>
 
@@ -125,11 +143,11 @@ Worked on dataset annotation and augmentation using **Roboflow** and trained mod
 
 A real-time restroom monitoring system developed using **Raspberry Pi and QNX Neutrino RTOS**.
 
-The system collects and processes sensor data for restroom occupancy and hygiene monitoring.
+The system is designed to monitor restroom conditions using sensors and process information in real time.
 
-Implemented **multi-threaded processing**, **inter-process communication**, and **network-based alerts** for low-latency performance.
+The project provides practical exposure to **RTOS concepts, multi-threading, inter-process communication and embedded systems**.
 
-**Technologies:** `Raspberry Pi` `QNX Neutrino RTOS` `Multi-threading` `IPC`
+**Technologies:** `Raspberry Pi` `QNX Neutrino RTOS` `Embedded C` `Multi-threading` `IPC`
 
 </details>
 
@@ -138,11 +156,11 @@ Implemented **multi-threaded processing**, **inter-process communication**, and 
 
 <br/>
 
-An autonomous path-tracking robot developed using **Arduino UNO and IR sensors**.
+An autonomous robot designed to follow a predefined path using **Arduino and IR sensors**.
 
-Implemented real-time motor speed and direction control while gaining practical experience in **robotics, sensor interfacing, and hardware-software integration**.
+The project provided practical experience with sensor interfacing, motor control and hardware-software integration.
 
-**Technologies:** `Arduino UNO` `IR Sensor` `Embedded Systems` `Robotics`
+**Technologies:** `Arduino` `Embedded C` `IR Sensors` `Motor Control`
 
 </details>
 
@@ -151,17 +169,17 @@ Implemented real-time motor speed and direction control while gaining practical 
 
 <br/>
 
-A digital clock designed and constructed using **ICs, JK flip-flops, counters and logic gates**.
+A digital clock implemented using **JK flip-flops, counters, logic gates and ICs**.
 
-Implemented a synchronous sequential circuit with clock division and timing control **without using a microcontroller or RTC module**.
+The project demonstrates concepts from digital electronics including sequential circuits, counters and clock generation.
 
-**Technologies:** `JK Flip-Flops` `Counters` `Logic Gates` `Digital Electronics`
+**Technologies:** `Digital Electronics` `JK Flip-Flops` `Counters` `Logic Gates`
 
 </details>
 
 ---
 
-## `04` — Internship
+## `06` — Internship
 
 ### PCB Designing & Circuit Analysis Intern
 
@@ -169,45 +187,45 @@ Implemented a synchronous sequential circuit with clock division and timing cont
 
 `2025 — 14 Days`
 
-Gained hands-on exposure to **PCB designing, circuit analysis and electronic hardware**.
+Gained practical exposure to **PCB designing, circuit analysis, PCB fabrication and electronic hardware**.
 
-Worked on schematic drafting and drawing creation using **AutoCAD**, PCB fabrication, fault diagnostics, and component-level circuit analysis using reverse engineering techniques. :contentReference[oaicite:2]{index=2}
+Worked with schematic drafting, PCB fabrication, fault diagnostics and component-level circuit analysis through reverse engineering.
 
 **Focus:** `PCB Design` `Circuit Analysis` `PCB Fabrication` `Fault Diagnostics` `Reverse Engineering`
 
 ---
 
-## `05` — Achievements & Participation
+## `07` — Achievements & Participation
 
 <div align="center">
 
 | 🏆 Achievement | Details |
 |---|---|
-| **Reverse Engineering** | Finalist in circuit debugging competition — Yi-YUVA Coimbatore |
-| **TNWISE Hackathon** | Participated in Inclusive Digital Transformation — 2026 |
-| **Bhasha Bandhu Hackathon** | Participated in hackathon organized by Bhashini — 2025 |
+| **Reverse Engineering Competition** | Finalist in Circuit Debugging Competition — Yi-YUVA Coimbatore |
+| **TNWISE Hackathon 2026** | Participated in Inclusive Digital Transformation |
+| **Bhasha Bandhu Hackathon 2025** | Participated in Bhashini Hackathon |
 | **Srinivasa Ramanujam Mathematics Competition** | Qualified up to Level 3 — National Level |
-| **MODELATION 2024** | Participated at Dr. N.G.P Institute of Technology |
+| **MODELATION 2024** | Participated at Dr. N.G.P. Institute of Technology |
 
 </div>
 
 ---
 
-## `06` — Certifications
+## `08` — Certifications
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/NPTEL-Computer%20Architecture-5DADE2?style=for-the-badge&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/NPTEL-COMPUTER%20ARCHITECTURE-5DADE2?style=for-the-badge"/>
 
-<img src="https://img.shields.io/badge/NPTEL-Water%20Quality-3498DB?style=for-the-badge&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/NPTEL-WATER%20QUALITY-3498DB?style=for-the-badge"/>
 
-<img src="https://img.shields.io/badge/NPTEL-Cryptography%20%26%20Network%20Security%20%7C%20Elite-87CEEB?style=for-the-badge&logoColor=071A2B"/>
+<img src="https://img.shields.io/badge/NPTEL-CRYPTOGRAPHY%20%26%20NETWORK%20SECURITY%20%7C%20ELITE-87CEEB?style=for-the-badge&logoColor=071A2B"/>
 
 </div>
 
 ---
 
-## `07` — Workshops & Activities
+## `09` — Workshops & Activities
 
 <div align="center">
 
@@ -223,7 +241,7 @@ Worked on schematic drafting and drawing creation using **AutoCAD**, PCB fabrica
 
 ---
 
-## `08` — GitHub Activity
+## `10` — GitHub Activity
 
 <div align="center">
 
@@ -233,7 +251,7 @@ Worked on schematic drafting and drawing creation using **AutoCAD**, PCB fabrica
 
 ---
 
-## `09` — GitHub Contribution Snake
+## `11` — GitHub Contribution Snake
 
 <div align="center">
 
@@ -243,7 +261,7 @@ Worked on schematic drafting and drawing creation using **AutoCAD**, PCB fabrica
 
 ---
 
-## `10` — GitHub Stats
+## `12` — GitHub Stats
 
 <div align="center">
 
@@ -257,32 +275,24 @@ Worked on schematic drafting and drawing creation using **AutoCAD**, PCB fabrica
 
 ---
 
-## `11` — Connect
+## `13` — Connect
 
 <div align="center">
 
 <a href="mailto:monikasri.cb@gmail.com">
-
 <img src="https://img.shields.io/badge/GMAIL-Contact%20Me-3498DB?style=for-the-badge&logo=gmail&logoColor=FFFFFF"/>
-
 </a>
 
 <a href="https://www.linkedin.com/in/monika-sri-715160288/">
-
 <img src="https://img.shields.io/badge/LINKEDIN-Monika%20Sri%20V-5DADE2?style=for-the-badge&logo=linkedin&logoColor=FFFFFF"/>
-
 </a>
 
 <a href="https://github.com/monikasricb-del">
-
 <img src="https://img.shields.io/badge/GITHUB-monikasricb--del-123B5D?style=for-the-badge&logo=github&logoColor=BFEFFF"/>
-
 </a>
 
 <a href="https://leetcode.com/u/uoUzX21kva/">
-
 <img src="https://img.shields.io/badge/LEETCODE-Monika%20Sri%20V-87CEEB?style=for-the-badge&logo=leetcode&logoColor=071A2B"/>
-
 </a>
 
 </div>
