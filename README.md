@@ -226,7 +226,7 @@ Managed dataset annotation and augmentation using **Roboflow**, and trained mode
 
 | **Role**                     | **Activity**                              |
 | :--------------------------- | :---------------------------------------- |
-| 🤝 **Active Member**         | Yi-Yuva `2025 – Present`                  |
+| 🤝 **Active Member**         | Yi-Yuva `2025 – 2026`                     |
 | 🎯 **Co-Coordinator**        | Circuit Intelathon & Workshop — Kanam'26  |
 | 🙋 **Volunteer**             | Project Expo — Kanam'25                   |
 | 📚 **Academic Tutor**        | Mathematics & Science for school students |
@@ -236,7 +236,7 @@ Managed dataset annotation and augmentation using **Roboflow**, and trained mode
 
 ---
 
-## `09` — LeetCode Journey
+## `08` — LeetCode Journey
 
 <div align="center">
 
@@ -258,7 +258,7 @@ Managed dataset annotation and augmentation using **Roboflow**, and trained mode
 
 ---
 
-## `10` — GitHub Analytics
+## `09` — GitHub Analytics
 
 <p align="center">
 
@@ -268,7 +268,7 @@ Managed dataset annotation and augmentation using **Roboflow**, and trained mode
 
 ---
 
-## `11` — GitHub Contribution Snake
+## `10` — GitHub Contribution Snake
 
 <div align="center">
 
@@ -276,7 +276,7 @@ Managed dataset annotation and augmentation using **Roboflow**, and trained mode
 
 </div>
 
-## `12` — Strengths
+## `11` — Strengths
 
 <div align="center">
 
@@ -290,7 +290,7 @@ Managed dataset annotation and augmentation using **Roboflow**, and trained mode
 
 ---
 
-## `13` — Connect
+## `12` — Connect
 
 <div align="center">
 
